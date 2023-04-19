@@ -119,6 +119,14 @@ main {
   background-color: var(--black);
 }
 
+.login__icons .icons__button:nth-child(4) {
+  background-color: green;
+}
+
+.login__icons .icons__button:nth-child(4) img {
+  width: 25px;
+}
+
 .login__label--checkbox {
   width: 100%;
   margin: 15px 0 50px;
